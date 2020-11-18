@@ -24,3 +24,4 @@ dependencies:
     - altair
     - geopandas
     - jupyter_contrib_nbextensions
+    - tensorflow
