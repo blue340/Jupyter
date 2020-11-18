@@ -15,6 +15,6 @@ dependencies:
     - pillow
     - xgboost
     - requests
-    - lightgm
+    - lightgbm
     - catboost
     - pyproj
