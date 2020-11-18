@@ -25,3 +25,9 @@ dependencies:
     - geopandas
     - jupyter_contrib_nbextensions
     - tensorflow
+    - opencv-python
+    - ggplot
+    - folium
+    - fiona
+    - cutecharts
+    - plotly
