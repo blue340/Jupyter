@@ -24,4 +24,3 @@ dependencies:
     - altair
     - geopandas
     - jupyter_contrib_nbextensions
-    - jupyter nbextensions_configurator enable --user
