@@ -32,6 +32,4 @@ dependencies:
     - cutecharts
     - plotly
     - xlrd
-    - torch==1.7.0 -f https://download.pytorch.org/whl/torch_stable.html
-    - cpu torchvision==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
-    - cpu torchaudio===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html
+    - geoplotlib
