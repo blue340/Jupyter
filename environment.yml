@@ -1,0 +1,20 @@
+dependencies:
+  - python=3
+  - pip:
+    - spacy
+    - ipykernel
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - thinc
+    - seaborn
+    - tqdm
+    - sklearn
+    - pillow
+    - xgboost
+    - requests
+    - lightgm
+    - catboost
+    - pyproj
