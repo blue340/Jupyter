@@ -22,3 +22,7 @@ dependencies:
     - pyecharts
     - bokeh
     - altair
+    - geopandas
+    - jupyter_contrib_nbextensions
+    - jupyter nbextensions_configurator enable --user
+    - jupyter contrib nbextension install --user --skip-running-check
