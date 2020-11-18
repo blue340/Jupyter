@@ -18,3 +18,7 @@ dependencies:
     - lightgbm
     - catboost
     - pyproj
+    - scrapy
+    - pyecharts
+    - bokeh
+    - altair
