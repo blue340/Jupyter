@@ -33,3 +33,4 @@ dependencies:
     - plotly
     - xlrd
     - geoplotlib
+    - cufflinks
