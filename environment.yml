@@ -34,3 +34,4 @@ dependencies:
     - xlrd
     - geoplotlib
     - cufflinks
+    - meshpy
