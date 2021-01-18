@@ -36,3 +36,5 @@ dependencies:
     - cufflinks
     - meshpy
     - sympy
+    - bs4
+    - html5lib
