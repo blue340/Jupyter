@@ -35,8 +35,6 @@ dependencies:
     - geoplotlib
     - vega_datasets
     - dash
-    - vega_datasets
-    - dash
     - cufflinks
     - meshpy
     - sympy
